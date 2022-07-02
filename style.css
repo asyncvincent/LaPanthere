@@ -1058,6 +1058,9 @@ h4 {
     color: #000000 !important;
 }
 
+.pos-relative {
+    position: relative;
+}
 
 @media (max-width: 400px) {
     .bloc {
