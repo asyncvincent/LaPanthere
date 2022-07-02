@@ -1054,6 +1054,11 @@ h4 {
     }
 }
 
+.text-black {
+    color: #000000 !important;
+}
+
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
